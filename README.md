@@ -40,6 +40,5 @@ Loaded dataset (creditcard.csv)
 Applied SMOTE to handle imbalance
 Built a Random Forest classifier
 Evaluated performance using accuracy and precision/recall metrics
-📎 View Notebook on Colab
 
 ⭐ Thank you for checking out my work!
